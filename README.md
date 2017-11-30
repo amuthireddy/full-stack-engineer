@@ -1,6 +1,6 @@
 ## Full-Stack Engineer Programming Challenge
 
-In order to be considered for the full-stack engineer position, you must complete the following steps. 
+In order to be considered for the Full-Stack Engineer position, you must complete the following steps. 
 
 
 ### Here are couple of things to keep in mind:

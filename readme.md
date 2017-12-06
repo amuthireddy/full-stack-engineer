@@ -14,7 +14,7 @@ In order to be considered for the Full-Stack Engineer position, you must complet
 
 You must complete atleast all of the following tasks:
 
-* [Conway's Game of Life](https://github.com/careernowbrands/full-stack-engineer/blob/master/challenges/game-of-life.md)
-* [Basic Single Page Application](https://github.com/careernowbrands/full-stack-engineer/blob/master/challenges/js-spa.md)
+* [Front-End Challenge](https://github.com/careernowbrands/full-stack-engineer/blob/master/challenges/front-end-challenge.md)
+* [Back-End Challenge](https://github.com/careernowbrands/full-stack-engineer/blob/master/challenges/back-end-challenge.md)
 
 You should create separate repositories for both challenges and send both of them back to us upon completion.

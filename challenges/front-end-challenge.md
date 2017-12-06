@@ -1,4 +1,4 @@
-# CNB Front-End Challenge
+# Front-End Challenge
 
 Hey There!
 

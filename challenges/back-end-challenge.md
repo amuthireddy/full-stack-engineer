@@ -16,7 +16,7 @@ The purpose of this challenge is assess your not only your back-end programming 
 
 ## The Challenge
 
-Using the language you are most comfortable in, complete Conway's Game of Life. You need to create a variably defined grid that follows the rules listed below. Be sure to document the process on how to get your repository up and running so we can pull it down and test it.
+Using the language you are most comfortable in, complete Conway's Game of Life. You need to create a variably defined grid that follows the rules listed below. Be sure to add a README with instructions or any requirements to run the project locally so we can pull your repository down and test it.
 
 ## Conway's Game of Life
 

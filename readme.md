@@ -1,20 +1,18 @@
 ## Full-Stack Engineer Programming Challenge
 
-In order to be considered for the Full-Stack Engineer position, you must complete the following steps. 
-
+In order to be considered for the Full-Stack Engineer position, please complete the following challenge. 
 
 ### Here are couple of things to keep in mind:
 
 * The code should be of production quality.
+* Follow test driven development. **Your code must contain tests.**
 * Follow best practices around background tasks, migrations, threads, etc.
-* Follow test driven development. Your code must reflect quality.
-* Ensure code is object-oriented, well encapsulated and follow a consistent convention.
+* Ensure code is object-oriented, well encapsulated and follows a consistent convention.
 
 ## Task
 
-You must complete atleast all of the following tasks:
+You must complete the following task:
 
-* [Front-End Challenge](https://github.com/careernowbrands/full-stack-engineer/blob/master/challenges/front-end-challenge.md)
 * [Back-End Challenge](https://github.com/careernowbrands/full-stack-engineer/blob/master/challenges/back-end-challenge.md)
 
-You should create separate repositories for both challenges and send both of them back to us upon completion.
+You should create a separate repository for the challenge and send a link back to us upon completion.

@@ -1,18 +1,8 @@
-
-# Back-End Challenge
-
-Hey There!
-
-Thanks for your interest in joining the Career Now Brands engineering team. This challenge is a bit more complicated than the front-end challenge, so get your game face on.
-
-Good Luck!
-The Career Now Team
-
 ## Overview
 
 To complete this challenge, you will need to complete the infamous Conway's Game of Life. 
 
-The purpose of this challenge is assess your not only your back-end programming knowledge but to observe how you approach problems and implement solutions.
+The purpose of this challenge is assess your not only your programming knowledge but to observe how you approach problems and implement solutions.
 
 ## The Challenge
 

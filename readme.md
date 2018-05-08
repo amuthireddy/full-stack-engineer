@@ -13,6 +13,6 @@ In order to be considered for the Full-Stack Engineer position, please complete 
 
 You must complete the following task:
 
-* [Back-End Challenge](https://github.com/careernowbrands/full-stack-engineer/blob/master/challenges/back-end-challenge.md)
+* [Coding Challenge](https://github.com/careernowbrands/full-stack-engineer/blob/master/challenges/coding-challenge-1.md)
 
 You should create a separate repository for the challenge and send a link back to us upon completion.
